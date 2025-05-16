@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class SimpleCalculator {
     public static void main(String[] args) {
+    	System.out.println("Hi i am haroon and i am making changes to a file in my local repo and going to push to github");
         Scanner scanner = new Scanner(System.in);
 
         // Input numbers
